@@ -13,7 +13,7 @@ If you like it! Just give a star on my repo!
 
 # Quick SignUp Form
 
-![Some text](/img/1.jpg)
+![Some text](/gh-pages/img/1.jpg)
 
 # Open: <a href src="https://github.com/piyush97/Bootstrap-Snippets/tree/master/Quick%20Signup%20Form">https://github.com/piyush97/Bootstrap-Snippets/tree/master/Quick%20Signup%20Form</a>
 ```html
@@ -133,7 +133,7 @@ If you like it! Just give a star on my repo!
 
 # Contact Form in modal
 
-![Some text](/img/2.jpg)
+![Some text](/gh-pages/img/2.jpg)
  # Open: https://github.com/piyush97/Bootstrap-Snippets/tree/master/Contact%20form%20in%20modal
   
 ```html
@@ -284,7 +284,7 @@ If you like it! Just give a star on my repo!
 
 # Yellow form Pacifico
 
-![Some text](/img/3.jpg)
+![Some text](/gh-pages/img/3.jpg)
 # Open: https://github.com/piyush97/Bootstrap-Snippets/tree/master/Form%20Yellow%20Pacifico
 ```html
 <!DOCTYPE html>
@@ -411,7 +411,7 @@ If you like it! Just give a star on my repo!
 ```
 
 # RainBow navbar
-![Some text](/img/4.jpg)
+![Some text](/gh-pages/img/4.jpg)
 
 # Open: https://github.com/piyush97/Bootstrap-Snippets/tree/master/RainBow%20Nav
 ```html
