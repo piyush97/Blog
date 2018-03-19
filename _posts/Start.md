@@ -1,0 +1,7 @@
+---
+title: How I started?
+date: 2018-03-06 12:27:31
+---
+### You must be wondering who I am, if you know me then you must be thinking Why I am like this?
+Long time back when I was in 1st standard and my big sista <a href src="https://instagram.com/npreetii">Preeti </a> was is 9th.
+Yeah well it's a big gap between both of us!
