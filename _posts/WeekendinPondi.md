@@ -45,6 +45,13 @@ It was a Musical therapy which relaxed our minds.
 Serenity Beach has a Bazaar on weekends on East Coast Road. Some of the items sold in bazaar are handicrafts, garments and leather goods. 
 So it might be a good place to do shopping for all the shopaholics out there
 ```
+![paradiseBeach](https://preview.ibb.co/dVK7s7/IMG_7823.jpg)
+
+6. Paradise Beach and Chunnambar Boat House 
+```
+Took a ferry from Chunnambar Boat house to paradise beach.
+Paradise beach is one of the CLEANEST BEACH I've seen till now.
+```
 
 # What I ate?
 ## You'll get one of the best food here in pondicherry
