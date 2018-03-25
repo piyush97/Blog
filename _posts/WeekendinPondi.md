@@ -15,8 +15,9 @@ Le Mirage is a hidden gem in a quiet part of White Town (The French quarter of P
 
 # What I saw?
 
-## DAY 1
-1. Matri Mandir (Auroville City) ![Matri Mandir](https://preview.ibb.co/gFBgKn/IMG_7824.jpg)
+![Matri Mandir](https://preview.ibb.co/gFBgKn/IMG_7824.jpg)
+
+1. Matri Mandir (Auroville City) 
   ```
   Auroville is a peaceful and tranquil area, a few kilometers from the main town of Pondicherry.
   It is an experimental township with the purpose of realizing human unity.
@@ -44,3 +45,13 @@ It was a Musical therapy which relaxed our minds.
 Serenity Beach has a Bazaar on weekends on East Coast Road. Some of the items sold in bazaar are handicrafts, garments and leather goods. 
 So it might be a good place to do shopping for all the shopaholics out there
 ```
+
+# What I ate?
+## You'll get one of the best food here in pondicherry
+### Some of the coolest place are here as follows:
+
+1. Tanto Pizzeria- Try the FireWood Pizza here
+2. Gelateria Montecatini Terme GMT ( THE BEST ICE-CREAM IN INDIA )
+3. Surguru Restaurant (Amazing Masala Dosa) (Pure Vegetarian Restaurant)
+4.  A2B (Cheap and Crowdy)
+5. Wangs Kitchen ( MouthWatering Chinese Food)
