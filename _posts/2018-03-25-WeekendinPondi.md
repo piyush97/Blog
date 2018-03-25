@@ -18,7 +18,7 @@ Le Mirage is a hidden gem in a quiet part of White Town (The French quarter of P
 ![Matri Mandir](https://preview.ibb.co/gFBgKn/IMG_7824.jpg)
 
 1. Matri Mandir (Auroville City) 
-  ```
+  ```quote
   Auroville is a peaceful and tranquil area, a few kilometers from the main town of Pondicherry.
   It is an experimental township with the purpose of realizing human unity.
   Auroville is kind of a hippie paradise and gives you the feel of Goa.
@@ -28,27 +28,27 @@ Le Mirage is a hidden gem in a quiet part of White Town (The French quarter of P
 ![Rock Beach](https://r1imghtlak.mmtcdn.com/3f6ddcdaf52611e794a0025f77df004f.jpg)
 
 3. Baker street
-``` 
+```quote
 Baker street is one of the finest Bakery I've ever been to. 
 From croissant to Coffee, you get everything which can ever make you drool
 ```
 
 4. SVARAM- A Paradise for Music and Sound Lovers (Sound Trippin)
-``` 
+```quote
 This place will always have a special place in my heart.
 The hand made musical instruments gave us a ravishing and soothing feeling. 
 It was a Musical therapy which relaxed our minds.
 ```
 
 5. Serenity Beach
-``` 
+```quote 
 Serenity Beach has a Bazaar on weekends on East Coast Road. Some of the items sold in bazaar are handicrafts, garments and leather goods. 
 So it might be a good place to do shopping for all the shopaholics out there
 ```
 ![paradiseBeach](https://preview.ibb.co/dVK7s7/IMG_7823.jpg)
 
 6. Paradise Beach and Chunnambar Boat House 
-```
+```quote
 Took a ferry from Chunnambar Boat house to paradise beach.
 Paradise beach is one of the CLEANEST BEACH I've seen till now.
 ```
